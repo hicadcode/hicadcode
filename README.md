@@ -5,4 +5,4 @@
 - 📫 email: claralencarux@gmail.com
 - 😄 Pronouns: ela/dela
   
-![Snake animation](https://github.com/hicadcode/hicadcode/blob/output/github-contribution-grid-snake.svg)
+
