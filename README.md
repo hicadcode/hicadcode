@@ -1,4 +1,4 @@
-### Oi! Sou Clara Alencar
+### Hey u 
 
 - 🔭 Estou em transição de carreira e cursando ADS
 - 🌱 Estudando JS, HTML, CSS e UX design 
