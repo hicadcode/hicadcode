@@ -4,7 +4,8 @@
 - 🌱 Estudando JS, HTML, CSS, IOT e UX design 
 - 📫 email: claralencarux@gmail.com
 - 😄 Pronouns: ela/dela 
-<div class="tenor-gif-embed" data-postid="18719046" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/after-all-clocks-ticking-catra-she-ra-and-the-princesses-of-power-time-is-passing-by-gif-18719046">After All Clocks Ticking GIF</a>from <a href="https://tenor.com/search/after+all-gifs">After All GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+<div class="tenor-gif-embed" data-postid="18719046" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/after-all-clocks-ticking-catra-she-ra-and-the-princesses-of-power-time-is-passing-by-gif-18719046">
 
 ### Estou aprendendo 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> 
