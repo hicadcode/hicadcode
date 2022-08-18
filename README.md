@@ -5,7 +5,9 @@
 - 📫 email: claralencarux@gmail.com
 - 😄 Pronouns: ela/dela 
 
-<img align="right" alt=cadcatra src="https://tenor.com/view/after-all-clocks-ticking-catra-she-ra-and-the-princesses-of-power-time-is-passing-by-gif-18719046" />
+<div>
+<img align="right" src="https://tenor.com/view/after-all-clocks-ticking-catra-she-ra-and-the-princesses-of-power-time-is-passing-by-gif-18719046"  width="60" height="60" />
+<div>
 
 ### Estou aprendendo 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> 
