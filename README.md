@@ -6,7 +6,7 @@
 - 😄 Pronouns: ela/dela 
 
 <div>
-<img align="right" src="https://c.tenor.com/YxE9SvjcZQsAAAAC/after-all-clocks-ticking.gif" />
+<img align="right" src="https://c.tenor.com/YxE9SvjcZQsAAAAC/after-all-clocks-ticking.gif" width="350" height="200"/>
 <div>
 
 ### Estou aprendendo 
