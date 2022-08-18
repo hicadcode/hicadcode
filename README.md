@@ -4,6 +4,7 @@
 - 🌱 Estudando JS, HTML, CSS, IOT e UX design 
 - 📫 email: claralencarux@gmail.com
 - 😄 Pronouns: ela/dela 
+- INTP 
 
 <div>
 <img align="right" src="https://c.tenor.com/YxE9SvjcZQsAAAAC/after-all-clocks-ticking.gif" width="350" height="200"/>
