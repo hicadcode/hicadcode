@@ -15,9 +15,7 @@
      
 ### Softwares 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" width="40" height="40" /> 
-   <div>
-<img align="left" src="https://c.tenor.com/eTqnX9epcR8AAAAC/i-have-so-many-questions-entrapta.gif"  />
-<div>            
+           
  <div>
 <a href="https://github.com/hicadcode">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hicadcode&layout=compact&langs_count=7&theme=dracula"/>
