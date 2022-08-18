@@ -6,16 +6,18 @@
 - 😄 Pronouns: ela/dela 
 
 <div>
-<img align="right" src="https://tenor.com/view/after-all-clocks-ticking-catra-she-ra-and-the-princesses-of-power-time-is-passing-by-gif-18719046"  width="60" height="60" />
+<img align="right" src="https://c.tenor.com/YxE9SvjcZQsAAAAC/after-all-clocks-ticking.gif" />
 <div>
 
 ### Estou aprendendo 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  width="40" height="40" />       
-          
+     
 ### Softwares 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" width="40" height="40" /> 
-          
+   <div>
+<img align="left" src="https://c.tenor.com/eTqnX9epcR8AAAAC/i-have-so-many-questions-entrapta.gif"  />
+<div>            
  <div>
 <a href="https://github.com/hicadcode">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hicadcode&layout=compact&langs_count=7&theme=dracula"/>
