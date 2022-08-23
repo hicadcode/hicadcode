@@ -1,5 +1,5 @@
-## 👋 Hello! Welcome to my Github profile.
-### Meu nome é Clara Alencar e meu nickname é "hicadcode"!
+## 💻 Hello! Welcome to my Github profile.
+### Sou Clara Alencar e meu nickname é "hicadcode"!
 - 🔭 Estou em transição de carreira e cursando ADS
 - 🌱 Estudando JS, HTML, CSS, IOT e UX design 
 - 📫 email: claralencarux@gmail.com
