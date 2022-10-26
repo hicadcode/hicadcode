@@ -3,7 +3,11 @@
 - 🔭 Estou em transição de carreira e cursando ADS
 - 🌱 Estudando JS, HTML, CSS, IOT, UX design e Java
 - 📫 email: claralencarux@gmail.com
+#### Mais sobre mim
 - 😄 Pronouns: ela/dela 
+- Sou pesquisadora em comunicação e designer freelancer. Me formei em 2021 como bacharel em cinema e audiovisual, no mesmo ano ingressei na pós-graduação em UX. 
+- Meu interesse por programação e tech veio através da minha curiosidade sobre otimizações através de machine learning e IOT. Optei por começar um curso tecnologo em Analise e Desenvolvimento de Sistemas. 
+- No meu tempo livre eu jogo, leio sobre fashion tech, novas tecnologias para o cinema (temas atuais das minhas pesquisas) e amo leitura sci-fi. 
 - INTP 
 
 <div>
